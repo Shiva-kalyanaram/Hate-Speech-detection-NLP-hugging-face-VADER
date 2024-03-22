@@ -1,1 +1,1 @@
-# Hate-Speech-detection-NLP-hugging-face-VADER
+# Hate-Speech-detection-NLP-huggingface-VADER
