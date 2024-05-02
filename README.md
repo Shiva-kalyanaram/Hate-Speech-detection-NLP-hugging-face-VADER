@@ -11,6 +11,7 @@ This project focuses on detecting hate speech in text data using Natural Languag
 ## Project Description
 
 In this project, we leverage various Python libraries and tools for NLP, including pandas, NLTK (Natural Language Toolkit), VADER (Valence Aware Dictionary and sEntiment Reasoner), and Hugging Face Transformers.
+Also, compared the sentimental scores with VADER and Hugging Face transformers.
 
 ### Key Components:
 
@@ -18,12 +19,13 @@ In this project, we leverage various Python libraries and tools for NLP, includi
 - **Preprocessing**: Text data preprocessing involves tasks such as tokenization, removing stopwords, and stemming/lemmatization.
 - **Sentiment Analysis**: We utilize VADER for sentiment analysis to determine the sentiment polarity of the text data.
 - **Modeling**: We experiment with different NLP models provided by Hugging Face Transformers to classify text data into hate speech and non-hate speech categories.
-- **Evaluation**: The performance of the models is evaluated using metrics such as accuracy, precision, recall, and F1-score.
+
 
 ## Tools and Libraries Used
 
 - Python
 - pandas
+- Spacy
 - NLTK (Natural Language Toolkit)
 - VADER (Valence Aware Dictionary and sEntiment Reasoner)
 - Hugging Face Transformers
